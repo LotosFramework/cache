@@ -16,7 +16,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.0",
-        "psr/cache": "^3.0.0",
         "fig/cache-util": "^2.0.0"
     }
 }
